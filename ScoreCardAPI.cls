@@ -1,4 +1,5 @@
 public class ScoreCardAPI {
+	//test
     List<Summary_of_Transactions__c> sumObj=new List<Summary_of_Transactions__c>();
     List<ScoreCard__c> scoreCard=new List<ScoreCard__c>();
     public ScoreCardAPI(){
