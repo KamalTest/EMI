@@ -3,7 +3,7 @@
  */
 public with sharing class ForgotPasswordController {
     public String username {get; set;}   
-       
+    //TEST
     public ForgotPasswordController() {}
 	
   	public PageReference forgotPassword() {
