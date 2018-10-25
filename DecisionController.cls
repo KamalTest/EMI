@@ -1,4 +1,5 @@
 public class DecisionController {
+   //TEST
     String loanApplied{set;get;}
     String totalIncome{set;get;}
     String excistingEmi{set;get;}
